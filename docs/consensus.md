@@ -4,6 +4,7 @@ Bittensor uses a subjective utility consensus mechanism called Yuma Consensus wh
 
 ### Problem definition
 
+
 > How do we automatically detect and penalize reward manipulation in high-volume subjective utility networks?
 
 Most utility networks serve objectively measurable utility, such as data storage (Filecoin, Siacoin, Storj, Arweave), computation (Golem, TrueBit, Flux, Render, iExec RLC, Near), wireless networking (Helium), video streaming (Theta, Livepeer), and music streaming (Audius). Each of these networks employs specific, quantifiable metrics for their services, ranging from gigabytes of storage and CPU/GPU cycles to network coverage, bandwidth utilization and streaming quality.
